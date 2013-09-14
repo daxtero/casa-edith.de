@@ -1,0 +1,15 @@
+#TODO URL Rewriting aktivieren und die Links anpassen
+
+
+#RewriteEngine On    # Turn on the rewriting engine
+#RewriteRule    ^$    index.php?s=main&m=house    [NC,L]
+#RewriteRule    ^rooms$    index.php?s=rooms&m=house    [NC,L]
+#RewriteRule    ^drive$    index.php?s=drive&m=house    [NC,L]
+#RewriteRule    ^sights$    index.php?s=main&m=sights    [NC,L]
+#RewriteRule    ^belluno$    index.php?s=belluno&m=sights    [NC,L]
+
+
+#RewriteRule ^.*$ index.php
+#RewriteRule ^house/main$ index.php?s=main&m=house [NC,L]
+#RewriteRule ^house/rooms$ index.php?s=rooms&m=house [NC,L]
+#RewriteRule ^house/drive$ index.php?s=drive&m=house [NC,L]
