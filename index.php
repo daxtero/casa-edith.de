@@ -1,4 +1,6 @@
 <?php
+include_once("config.php");
+
 header('Content-Type: text/html; charset=UTF-8');
 $menu = $_REQUEST['m'];
 $site = $_REQUEST['s'];
@@ -27,6 +29,9 @@ function include_extra_meta($menu, $site)
 <head>
     <!--    <meta http-equiv="content-type" content="text/html; charset=utf-8" />-->
     <title>Casa Edith</title>
+
+    <base href="<?php echo $base; ?>">
+
     <link rel="shortcut icon" href="favicon.ico">
     <link href="http://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.0/css/bootstrap-combined.min.css" rel="stylesheet">
     <link href="casa-edit.css" rel="stylesheet">
@@ -34,6 +39,7 @@ function include_extra_meta($menu, $site)
     <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js"></script>
     <script src="js/picbox.js" type="text/javascript"></script>
     <link rel="stylesheet" href="css/picbox.css" type="text/css" media="screen"/>
+
 
     <?php echo include_extra_meta($menu, $site); ?>
 
