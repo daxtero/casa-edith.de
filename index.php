@@ -4,14 +4,14 @@ include_once("config.php");
 header('Content-Type: text/html; charset=UTF-8');
 $menu = $_REQUEST['m'];
 $site = $_REQUEST['s'];
-$content_file_exists = file_exists($menu . '-' . $site . '.php');
 
 if (!$menu) {
     $menu = 'house';
 }
 if (!$site) {
-    $site = 'main';
+    $site = 'home';
 }
+$content_file_exists = file_exists($menu . '-' . $site . '.php');
 
 function include_extra_meta($menu, $site)
 {
@@ -54,7 +54,7 @@ function include_extra_meta($menu, $site)
                 <li <?php if (!$content_file_exists || $menu == 'house') {
                     echo 'class="active"';
                 } ?> >
-                    <a href="/index.php?s=main&m=house">Haus</a>
+                    <a href="/index.php?s=home&m=house">Haus</a>
                 </li>
                 <li <?php if ($menu == 'sights') {
                     echo 'class="active"';

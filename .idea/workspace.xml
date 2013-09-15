@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c416f5b-f152-48b6-9120-1a44727ca441" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.htaccess" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/house-home.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/menu-house.php" afterPath="$PROJECT_DIR$/menu-house.php" />
     </list>
     <ignored path="casa-edith.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -97,10 +97,28 @@
       <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="38" selection-start="747" selection-end="747" vertical-scroll-proportion="0.66132265" vertical-offset="150" max-vertical-offset="1410">
+            <state line="8" column="20" selection-start="168" selection-end="168" vertical-scroll-proportion="-1.5851704" vertical-offset="911" max-vertical-offset="1410">
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="house-home.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/house-home.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="6" selection-start="609" selection-end="609" vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="225">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="menu-house.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/menu-house.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="116" selection-start="204" selection-end="204" vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="210">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -133,9 +151,11 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/config.php" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/.htaccess" />
         <option value="$PROJECT_DIR$/menu-sights.php" />
+        <option value="$PROJECT_DIR$/menu-house.php" />
+        <option value="$PROJECT_DIR$/house-home.php" />
+        <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
   </component>
@@ -245,6 +265,11 @@
     <option name="myPythonConsoleState">
       <PyConsoleSettings />
     </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin" singleton="true">
@@ -610,12 +635,12 @@
       <changelist id="8c416f5b-f152-48b6-9120-1a44727ca441" name="Default" comment="" />
       <created>1379178991476</created>
       <updated>1379178991476</updated>
-      <workItem from="1379178992151" duration="3435000" />
+      <workItem from="1379178992151" duration="4102000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3435000" />
+    <option name="totallyTimeSpent" value="4102000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1680" height="973" extended-state="6" />
@@ -690,9 +715,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/house-home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="6" selection-start="609" selection-end="609" vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="225">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/menu-house.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="116" selection-start="204" selection-end="204" vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="210">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="38" selection-start="747" selection-end="747" vertical-scroll-proportion="0.66132265" vertical-offset="150" max-vertical-offset="1410">
+        <state line="8" column="20" selection-start="168" selection-end="168" vertical-scroll-proportion="-1.5851704" vertical-offset="911" max-vertical-offset="1410">
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
