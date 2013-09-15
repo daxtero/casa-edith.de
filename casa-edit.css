@@ -47,14 +47,20 @@ html {
     max-width: none;
 }
 
-.highlightit img{
+.highlightit img {
     border: 2px solid #FFF;
 }
 
-.highlightit:hover img{
+.highlightit:hover img {
     border: 2px solid #ffd82b;
 }
 
-.highlightit:hover{
+.highlightit:hover {
     color: #ffd82b; /* Dummy definition to overcome IE bug */
+}
+
+.twocolumns {
+    text-align: left;
+    width: 50%;
+    float: left;
 }
