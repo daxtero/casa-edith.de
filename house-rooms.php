@@ -5,10 +5,8 @@ header('Content-Type: text/html; charset=UTF-8');
 <div class="span10 main">
     <h2>Die Zimmer</h2>
 
-    <h4>Die Zimmer</h4>
-
     <p>
-        Beide Zimmer sind jeweils ausgestattet mit einem Doppelbett, einem Schrank sowie einem LCD Fernseher.
+        Alle Räumlichkeiten wurden 2013 komplett renoviert und verfügen über moderne Doppelglasfenster, getrennt regelbare Heizkörper und Echtholzparkett. Beide Zimmer sind jeweils ausgestattet mit einem Doppelbett, einem Schrank sowie einem LCD Fernseher.
     </p>
 
     <div class="twocolumns">
@@ -30,7 +28,7 @@ header('Content-Type: text/html; charset=UTF-8');
     <h4>Das Badezimmer</h4>
 
     <p>
-        Das moderne Badezimmer ist mit einer Duschkabine, einem WC, einem ... und zwei Waschbecken ausgestattet.
+        Das moderne Badezimmer ist mit einer Duschkabine, einem WC, einem BD und zwei Waschbecken ausgestattet.
     </p>
 
     <div class="twocolumns">

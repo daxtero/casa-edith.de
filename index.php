@@ -32,7 +32,6 @@ function include_extra_meta($menu, $site)
 <!DOCTYPE html>
 <html>
 <head>
-    <!--    <meta http-equiv="content-type" content="text/html; charset=utf-8" />-->
     <title>Casa Edith</title>
 
     <base href="<?php echo $base; ?>">
@@ -59,12 +58,7 @@ function include_extra_meta($menu, $site)
                 <li <?php if (!$content_file_exists || $menu == 'house') {
                     echo 'class="active"';
                 } ?> >
-                    <a href="/index.php?s=home&m=house">Haus</a>
-                </li>
-                <li <?php if ($menu == 'sights') {
-                    echo 'class="active"';
-                } ?> >
-                    <a href="/index.php?s=main&m=sights">Sehenswürdigkeiten / Ausflüge</a>
+                    <a href="/index.php?s=home&m=house">Home</a>
                 </li>
             </ul>
         </div>

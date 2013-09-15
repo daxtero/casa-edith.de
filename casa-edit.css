@@ -37,6 +37,7 @@ body {
     background: -ms-linear-gradient(top, #ffd82b, #fcffb7); /* ab IE10 */
     margin: 0px !important;
     padding: 0px !important;
+    font-size: 15px !important;
 }
 
 html {
@@ -63,4 +64,20 @@ html {
     text-align: left;
     width: 50%;
     float: left;
+}
+
+a {
+    color: darkgreen;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    color: darkgreen;
+    font-weight: bold;
+}
+
+.active {
+    color: darkgreen !important;
+    font-weight: bold;
 }

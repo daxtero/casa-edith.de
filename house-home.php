@@ -5,12 +5,12 @@
         <p>
             Mein Name ist Edith Eckardt-Vedana. Ich bin hier am Rande der wunderschönen Belluneser Dolomiten geboren und
             habe hier auch meine Kindheit verbracht. Als junge Frau zog es mich nach Deutschland, wo ich über 40 Jahre
-            lang selbstständig in der Gastronomie arbeitete. Seit September 2012 bin ich wieder zurück nach Italien gekehrt,
+            lang selbstständig in der Gastronomie arbeitete. Seit September 2012 bin ich wieder zurück in Bella Italia,
             um in diesem Haus meinen Lebensabend zu verbringen.
             <br/>
             <br/>
             Aber ruhig auf dem Sofa zu sitzen und darauf zu warten, dass etwas passiert, gehörte noch nie zu meinen
-            Stärken. Daher kam mir die Idee, für Freunde und gute Bekannte ein familiär geführtes Bed-and-Breakfast
+            Eigenschaften. Daher kam mir die Idee, für Freunde und gute Bekannte ein familiär geführtes Bed-and-Breakfast
             anzubieten.
             <br/>
             <br/>
