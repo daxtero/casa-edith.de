@@ -37,8 +37,12 @@ body {
     background: -ms-linear-gradient(top, #ffd82b, #fcffb7); /* ab IE10 */
     margin: 0px !important;
     padding: 0px !important;
+}
+
+p, ul, li {
     font-size: 15px !important;
 }
+
 
 html {
     min-height: 100%;
