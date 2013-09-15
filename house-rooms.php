@@ -8,31 +8,39 @@ header('Content-Type: text/html; charset=UTF-8');
     <h4>Die Zimmer</h4>
 
     <p>
-        Beide Zimmer sind mit
+        Beide Zimmer sind jeweils ausgestattet mit einem Doppelbett, einem Schrank sowie einem LCD Fernseher.
     </p>
 
-    <div style="float:left;width:40%;margin:5px;">
+    <div class="twocolumns">
         <a href="images/rooms/D2DX5907.jpg" class="highlightit" rel="lightbox-group2" title='Zimmer "Ernesta"'>
             <img src="images/rooms/D2DX5907.jpg"/>
         </a>
         <br/>Zimmer "Ernesta"
     </div>
 
-    <div style="width:40%;margin:5px;">
+    <div class="twocolumns">
         <a href="images/rooms/D2DX5909.jpg" class="highlightit" rel="lightbox-group2" title='Zimmer "Roia"'>
             <img src="images/rooms/D2DX5909.jpg"/>
         </a>
         <br/>Zimmer "Roia"
     </div>
-    <div>
-        <br />
-    <h4>Das Bad</h4>
-    <a href="images/rooms/D2DX5889.jpg" class="highlightit" rel="lightbox-group2" title="Die Dusche">
-        <img style="width:40%;height=40%;" src="images/rooms/D2DX5889.jpg"/>
-    </a>
+    <div style="clear: left;"></div>
+    <br/>
+    <br/>
+    <h4>Das Badezimmer</h4>
 
-    <a href="images/rooms/D2DX5957.jpg" class="highlightit" rel="lightbox-group2" title="Das Badezimmer">
-        <img style="width:40%;height=40%;" src="images/rooms/D2DX5957.jpg"/>
-    </a>
+    <p>
+        Das moderne Badezimmer ist mit einer Duschkabine, einem WC, einem ... und zwei Waschbecken ausgestattet.
+    </p>
+
+    <div class="twocolumns">
+        <a href="images/rooms/D2DX5889.jpg" class="highlightit" rel="lightbox-group2" title="Die Dusche">
+            <img style="width:84%;height=84%;" src="images/rooms/D2DX5889.jpg"/>
+        </a>
+    </div>
+    <div>
+        <a href="images/rooms/D2DX5957.jpg" class="highlightit" rel="lightbox-group2" title="Das Badezimmer">
+            <img style="width:40%;height=40%;" src="images/rooms/D2DX5957.jpg"/>
+        </a>
     </div>
 </div>

@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c416f5b-f152-48b6-9120-1a44727ca441" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/house-food.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/house-prices.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/casa-edit.css" afterPath="$PROJECT_DIR$/casa-edit.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/house-home.php" afterPath="$PROJECT_DIR$/house-home.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/house-main.php" afterPath="$PROJECT_DIR$/house-main.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/house-rooms.php" afterPath="$PROJECT_DIR$/house-rooms.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/menu-house.php" afterPath="$PROJECT_DIR$/menu-house.php" />
     </list>
     <ignored path="casa-edith.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -79,19 +76,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="menu-sights.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/menu-sights.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="12" selection-start="40" selection-end="40" vertical-scroll-proportion="-0.625" vertical-offset="0" max-vertical-offset="285">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="house-main.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/house-main.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="4" selection-start="69" selection-end="493" vertical-scroll-proportion="-1.25" vertical-offset="0" max-vertical-offset="345">
+            <state line="10" column="7" selection-start="501" selection-end="501" vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="345">
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
               </folding>
@@ -113,12 +101,11 @@
       <file leaf-file-name="house-rooms.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/house-rooms.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="103" selection-start="1042" selection-end="1042" vertical-scroll-proportion="-20.625" vertical-offset="0" max-vertical-offset="660">
+            <state line="29" column="22" selection-start="830" selection-end="830" vertical-scroll-proportion="-18.125" vertical-offset="0" max-vertical-offset="780">
               <folding>
-                <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#a#0;n#div#2;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#a#1;n#div#2;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#div#3;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#div#4;n#div#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -127,10 +114,19 @@
       <file leaf-file-name="house-home.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/house-home.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="8" selection-start="297" selection-end="297" vertical-scroll-proportion="0.17352185" vertical-offset="0" max-vertical-offset="778">
+            <state line="8" column="29" selection-start="496" selection-end="496" vertical-scroll-proportion="0.15424165" vertical-offset="0" max-vertical-offset="778">
               <folding>
-                <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="casa-edit.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/casa-edit.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="64" column="16" selection-start="1167" selection-end="1167" vertical-scroll-proportion="0.0" vertical-offset="203" max-vertical-offset="1065">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -194,8 +190,9 @@
         <option value="$PROJECT_DIR$/menu-sights.php" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/house-main.php" />
-        <option value="$PROJECT_DIR$/house-rooms.php" />
         <option value="$PROJECT_DIR$/menu-house.php" />
+        <option value="$PROJECT_DIR$/casa-edit.css" />
+        <option value="$PROJECT_DIR$/house-rooms.php" />
         <option value="$PROJECT_DIR$/house-home.php" />
       </list>
     </option>
@@ -740,12 +737,12 @@
       <changelist id="8c416f5b-f152-48b6-9120-1a44727ca441" name="Default" comment="" />
       <created>1379178991476</created>
       <updated>1379178991476</updated>
-      <workItem from="1379178992151" duration="9161000" />
+      <workItem from="1379178992151" duration="11275000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9161000" />
+    <option name="totallyTimeSpent" value="11275000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1680" height="973" extended-state="6" />
@@ -822,18 +819,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/house-rooms.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="103" selection-start="1042" selection-end="1042" vertical-scroll-proportion="-20.625" vertical-offset="0" max-vertical-offset="660">
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#a#0;n#div#2;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#a#1;n#div#2;n#div#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/house-food.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="802">
@@ -848,15 +833,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/house-main.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="4" selection-start="69" selection-end="493" vertical-scroll-proportion="-1.25" vertical-offset="0" max-vertical-offset="345">
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/menu-house.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="11" column="6" selection-start="1032" selection-end="1032" vertical-scroll-proportion="-6.875" vertical-offset="0" max-vertical-offset="255">
@@ -864,11 +840,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/house-home.php">
+    <entry file="file://$PROJECT_DIR$/casa-edit.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="8" selection-start="297" selection-end="297" vertical-scroll-proportion="0.17352185" vertical-offset="0" max-vertical-offset="778">
+        <state line="64" column="16" selection-start="1167" selection-end="1167" vertical-scroll-proportion="0.0" vertical-offset="203" max-vertical-offset="1065">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/house-rooms.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="22" selection-start="830" selection-end="830" vertical-scroll-proportion="-18.125" vertical-offset="0" max-vertical-offset="780">
+          <folding>
+            <element signature="n#style#0;n#div#2;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#3;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#4;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/house-main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="7" selection-start="501" selection-end="501" vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="345">
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/house-home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="29" selection-start="496" selection-end="496" vertical-scroll-proportion="0.15424165" vertical-offset="0" max-vertical-offset="778">
+          <folding>
+            <element signature="n#style#0;n#div#2;n#div#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
