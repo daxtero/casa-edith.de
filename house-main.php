@@ -1,3 +1,5 @@
+<!-- ToDo: Titel der Bilder anpassen -->
+
 <div class="span10 main">
     <h2>Das Haus und die Umgebung</h2>
 

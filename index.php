@@ -1,4 +1,7 @@
 <?php
+//ToDo: Schriftgröße anpassen von Absätzen => Twitter Bootstrap
+//ToDo: Bilddateigrößen anpassen (tw. zu groß fürs web)
+
 include_once("config.php");
 
 header('Content-Type: text/html; charset=UTF-8');
