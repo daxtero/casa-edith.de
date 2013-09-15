@@ -21,33 +21,23 @@
         <a href="images/house/IMG_0111.jpeg" class="highlightit" rel="lightbox-group1" title="Der Wasserfall hinter dem Haus">
             <img src="images/house/IMG_0111.jpeg"/>
         </a>
+        <a href="images/house/IMG_0154.jpeg" class="highlightit" rel="lightbox-group1" title="Der Wasserfall hinter dem Haus">
+            <img src="images/house/IMG_0154.jpeg"/>
+        </a>
+        <a href="images/house/IMG_0401.jpeg" class="highlightit" rel="lightbox-group1" title="Der Wasserfall hinter dem Haus">
+            <img src="images/house/IMG_0401.jpeg"/>
+        </a>
+        <a href="images/house/IMG_0278.JPG" class="highlightit" rel="lightbox-group1" title="Der Wasserfall hinter dem Haus">
+            <img src="images/house/IMG_0278.JPG"/>
+        </a>
     </div>
+
     <div class="twocolumns">
         <a href="images/house/IMG_0153-1.JPG" class="highlightit" rel="lightbox-group1" title="Der Wasserfall hinter dem Haus">
             <img src="images/house/IMG_0153-1.JPG"/>
         </a>
-    </div>
-    <div style="clear: left;"></div>
-
-    <div class="twocolumns">
-        <a href="images/house/IMG_0154.jpeg" class="highlightit" rel="lightbox-group1" title="Der Wasserfall hinter dem Haus">
-            <img src="images/house/IMG_0154.jpeg"/>
-        </a>
-    </div>
-    <div class="twocolumns">
         <a href="images/house/DSC_0628.jpg" class="highlightit" rel="lightbox-group1" title="Der Wasserfall hinter dem Haus">
             <img src="images/house/DSC_0628.jpg"/>
-        </a>
-    </div>
-    <div style="clear: left;"></div>
-    <div class="twocolumns">
-        <a href="images/house/IMG_0401.jpeg" class="highlightit" rel="lightbox-group1" title="Der Wasserfall hinter dem Haus">
-            <img src="images/house/IMG_0401.jpeg"/>
-        </a>
-    </div>
-    <div class="twocolumns">
-        <a href="images/house/IMG_0278.JPG" class="highlightit" rel="lightbox-group1" title="Der Wasserfall hinter dem Haus">
-            <img src="images/house/IMG_0278.JPG"/>
         </a>
     </div>
     <div style="clear: left;"></div>
