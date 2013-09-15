@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c416f5b-f152-48b6-9120-1a44727ca441" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/casa-edit.css" afterPath="$PROJECT_DIR$/casa-edit.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/house-home.php" afterPath="$PROJECT_DIR$/house-home.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/house-rooms.php" afterPath="$PROJECT_DIR$/house-rooms.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/house/IMG_0278.JPG" afterPath="$PROJECT_DIR$/images/house/IMG_0278.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/house-main.php" afterPath="$PROJECT_DIR$/house-main.php" />
     </list>
     <ignored path="casa-edith.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -67,21 +66,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name=".htaccess" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.htaccess">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="53" selection-start="53" selection-end="53" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="315">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="house-main.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="house-main.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/house-main.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="7" selection-start="501" selection-end="501" vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="345">
+            <state line="15" column="10" selection-start="808" selection-end="808" vertical-scroll-proportion="0.28089887" vertical-offset="0" max-vertical-offset="870">
               <folding>
-                <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#3;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#6;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#9;n#div#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -111,10 +103,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="house-home.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="house-home.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/house-home.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="29" selection-start="496" selection-end="496" vertical-scroll-proportion="0.15424165" vertical-offset="0" max-vertical-offset="778">
+            <state line="8" column="29" selection-start="496" selection-end="496" vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="630">
               <folding>
                 <element signature="n#style#0;n#div#2;n#div#0;n#!!top" expanded="true" />
               </folding>
@@ -189,11 +181,11 @@
         <option value="$PROJECT_DIR$/.htaccess" />
         <option value="$PROJECT_DIR$/menu-sights.php" />
         <option value="$PROJECT_DIR$/index.php" />
-        <option value="$PROJECT_DIR$/house-main.php" />
         <option value="$PROJECT_DIR$/menu-house.php" />
         <option value="$PROJECT_DIR$/casa-edit.css" />
         <option value="$PROJECT_DIR$/house-rooms.php" />
         <option value="$PROJECT_DIR$/house-home.php" />
+        <option value="$PROJECT_DIR$/house-main.php" />
       </list>
     </option>
   </component>
@@ -261,24 +253,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="casa-edith" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="casa-edith" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rooms" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -737,12 +711,12 @@
       <changelist id="8c416f5b-f152-48b6-9120-1a44727ca441" name="Default" comment="" />
       <created>1379178991476</created>
       <updated>1379178991476</updated>
-      <workItem from="1379178992151" duration="11275000" />
+      <workItem from="1379178992151" duration="12330000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11275000" />
+    <option name="totallyTimeSpent" value="12330000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1680" height="973" extended-state="6" />
@@ -858,20 +832,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/house-main.php">
+    <entry file="file://$PROJECT_DIR$/house-home.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="7" selection-start="501" selection-end="501" vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="345">
+        <state line="8" column="29" selection-start="496" selection-end="496" vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="630">
           <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/house-home.php">
+    <entry file="file://$PROJECT_DIR$/images/house/IMG_0278.JPG">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/house-main.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="29" selection-start="496" selection-end="496" vertical-scroll-proportion="0.15424165" vertical-offset="0" max-vertical-offset="778">
+        <state line="15" column="10" selection-start="808" selection-end="808" vertical-scroll-proportion="0.28089887" vertical-offset="0" max-vertical-offset="870">
           <folding>
-            <element signature="n#style#0;n#div#2;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#6;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#9;n#div#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
