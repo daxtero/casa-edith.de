@@ -2,22 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c416f5b-f152-48b6-9120-1a44727ca441" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/house-news.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/restaurants-main.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sights-adria.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sights-bassano.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sights-treviso.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/casa-edit.css" afterPath="$PROJECT_DIR$/casa-edit.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/house-drive.php" afterPath="$PROJECT_DIR$/house-drive.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/house-food.php" afterPath="$PROJECT_DIR$/house-food.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/house-home.php" afterPath="$PROJECT_DIR$/house-home.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/house-main.php" afterPath="$PROJECT_DIR$/house-main.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/house-prices.php" afterPath="$PROJECT_DIR$/house-prices.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/house-rooms.php" afterPath="$PROJECT_DIR$/house-rooms.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/menu-house.php" afterPath="$PROJECT_DIR$/menu-house.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/menu-sights.php" afterPath="$PROJECT_DIR$/menu-sights.php" />
     </list>
     <ignored path="casa-edith.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -154,7 +139,7 @@
       <file leaf-file-name="casa-edit.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/casa-edit.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="50" column="18" selection-start="954" selection-end="954" vertical-scroll-proportion="0.0" vertical-offset="533" max-vertical-offset="1335">
+            <state line="52" column="1" selection-start="950" selection-end="950" vertical-scroll-proportion="0.0" vertical-offset="413" max-vertical-offset="1395">
               <folding />
             </state>
           </provider>
@@ -163,7 +148,7 @@
       <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="1" selection-start="12" selection-end="12" vertical-scroll-proportion="0.018703243" vertical-offset="0" max-vertical-offset="802">
+            <state line="1" column="7" selection-start="18" selection-end="18" vertical-scroll-proportion="0.018703243" vertical-offset="0" max-vertical-offset="802">
               <folding />
             </state>
           </provider>
@@ -705,12 +690,12 @@
       <changelist id="8c416f5b-f152-48b6-9120-1a44727ca441" name="Default" comment="" />
       <created>1379178991476</created>
       <updated>1379178991476</updated>
-      <workItem from="1379178992151" duration="24028000" />
+      <workItem from="1379178992151" duration="24804000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24028000" />
+    <option name="totallyTimeSpent" value="24804000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -893,14 +878,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/casa-edit.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="18" selection-start="954" selection-end="954" vertical-scroll-proportion="0.0" vertical-offset="533" max-vertical-offset="1335">
+        <state line="52" column="1" selection-start="950" selection-end="950" vertical-scroll-proportion="0.0" vertical-offset="413" max-vertical-offset="1395">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="1" selection-start="12" selection-end="12" vertical-scroll-proportion="0.018703243" vertical-offset="0" max-vertical-offset="802">
+        <state line="1" column="7" selection-start="18" selection-end="18" vertical-scroll-proportion="0.018703243" vertical-offset="0" max-vertical-offset="802">
           <folding />
         </state>
       </provider>
