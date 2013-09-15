@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8c416f5b-f152-48b6-9120-1a44727ca441" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/house-home.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/menu-house.php" afterPath="$PROJECT_DIR$/menu-house.php" />
-    </list>
+    <list default="true" id="8c416f5b-f152-48b6-9120-1a44727ca441" name="Default" comment="" />
     <ignored path="casa-edith.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -97,7 +93,7 @@
       <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="20" selection-start="168" selection-end="168" vertical-scroll-proportion="-1.5851704" vertical-offset="911" max-vertical-offset="1410">
+            <state line="24" column="2" selection-start="561" selection-end="561" vertical-scroll-proportion="0.7214429" vertical-offset="0" max-vertical-offset="1410">
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -209,6 +205,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="casa-edith" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="casa-edith" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="casa-edith" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -635,12 +645,12 @@
       <changelist id="8c416f5b-f152-48b6-9120-1a44727ca441" name="Default" comment="" />
       <created>1379178991476</created>
       <updated>1379178991476</updated>
-      <workItem from="1379178992151" duration="4102000" />
+      <workItem from="1379178992151" duration="5818000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4102000" />
+    <option name="totallyTimeSpent" value="5818000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1680" height="973" extended-state="6" />
@@ -731,7 +741,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="20" selection-start="168" selection-end="168" vertical-scroll-proportion="-1.5851704" vertical-offset="911" max-vertical-offset="1410">
+        <state line="24" column="2" selection-start="561" selection-end="561" vertical-scroll-proportion="0.7214429" vertical-offset="0" max-vertical-offset="1410">
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
