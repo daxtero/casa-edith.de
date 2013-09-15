@@ -1,10 +1,12 @@
 <div class="span10 main">
     <h2>Willkommen</h2>
+
+    <div style="text-align: center">
+        <a href="images/house/Edith.jpg" class="highlightit" rel="lightbox-group0" title="Die Gastgeberin Edith Vedana">
+            <img src="images/house/Edith.jpg"/>
+        </a>
+    </div>
     <p>
-        Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes
-        demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus,
-        qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus
-        parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima.
-        Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum.
+        
     </p>
 </div>

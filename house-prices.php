@@ -1,13 +1,5 @@
 <div class="span10 main">
-    <h2>Das Haus und die Umgebung</h2>
-    <div style = "float: left">
-        <a href="images/img-1.jpeg" class="highlightit" rel="lightbox-group1" title="Das Haus">
-            <img style="width:40%;height=40%;" src="images/img-1.jpeg"/>
-        </a>
-        <a href="images/img-2.jpeg" class="highlightit" rel="lightbox-group1" title="Der Wasserfall hinter dem Haus">
-            <img style="width:40%;height=40%;" src="images/img-2.jpeg"/>
-        </a>
-    </div>
+    <h2>Willkommen</h2>
     <p>
         Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes
         demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus,
