@@ -8,21 +8,19 @@
 
     <div class="twocolumns">
         <br/>
-
         <p>
-            Das Projekt "Außenküche" kann beginnen...
+            In der Mitte thront der Pizzaofen. <br/>
         </p>
     </div>
     <div class="twocolumns">
-        <a href="images/news/Foto-3.jpg" class="highlightit" rel="lightbox-group4"
+        <a href="images/news/Foto-5.jpg" class="highlightit" rel="lightbox-group4"
            title="Der Wasserfall hinter dem Haus">
-            <img src="images/news/Foto-3.jpg"/>
+            <img src="images/news/Foto-5.jpg"/>
         </a>
     </div>
 
     <div class="twocolumns">
         <br/>
-
         <p>
             Das Fundament steht.
         </p>
@@ -36,16 +34,14 @@
 
     <div class="twocolumns">
         <br/>
-
         <p>
-            In der Mitte thront der Pizzaofen. <br/>
-
+            Das Projekt "Außenküche" kann beginnen...
         </p>
     </div>
     <div class="twocolumns">
-        <a href="images/news/Foto-5.jpg" class="highlightit" rel="lightbox-group4"
+        <a href="images/news/Foto-3.jpg" class="highlightit" rel="lightbox-group4"
            title="Der Wasserfall hinter dem Haus">
-            <img src="images/news/Foto-5.jpg"/>
+            <img src="images/news/Foto-3.jpg"/>
         </a>
     </div>
 

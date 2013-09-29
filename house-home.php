@@ -29,7 +29,7 @@
         <a href="images/house/Edith.jpg"
            class="highlightit" rel="lightbox-group0"
            title="Die Gastgeberin Edith Eckardt-Vedana">
-            <img src="images/house/Edith.jpg"/>
+            <img src="images/house/k-Edith.jpg"/>
         </a>
     </div>
     <div style="clear: left;"></div>

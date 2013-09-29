@@ -11,14 +11,14 @@ header('Content-Type: text/html; charset=UTF-8');
 
     <div class="twocolumns">
         <a href="images/rooms/D2DX5907.jpg" class="highlightit" rel="lightbox-group2" title='Zimmer "Ernesta"'>
-            <img src="images/rooms/D2DX5907.jpg"/>
+            <img src="images/rooms/k-D2DX5907.jpg"/>
         </a>
         <br/>Zimmer "Ernesta"
     </div>
 
     <div class="twocolumns">
         <a href="images/rooms/D2DX5909.jpg" class="highlightit" rel="lightbox-group2" title='Zimmer "Roia"'>
-            <img src="images/rooms/D2DX5909.jpg"/>
+            <img src="images/rooms/k-D2DX5909.jpg"/>
         </a>
         <br/>Zimmer "Roia"
     </div>
@@ -33,12 +33,12 @@ header('Content-Type: text/html; charset=UTF-8');
 
     <div class="twocolumns">
         <a href="images/rooms/D2DX5889.jpg" class="highlightit" rel="lightbox-group2" title="Die Dusche">
-            <img style="width:84%;height=84%;" src="images/rooms/D2DX5889.jpg"/>
+            <img style="width:84%;height=84%;" src="images/rooms/k-D2DX5889.jpg"/>
         </a>
     </div>
     <div>
         <a href="images/rooms/D2DX5957.jpg" class="highlightit" rel="lightbox-group2" title="Das Badezimmer">
-            <img style="width:40%;height=40%;" src="images/rooms/D2DX5957.jpg"/>
+            <img style="width:40%;height=40%;" src="images/rooms/k-D2DX5957.jpg"/>
         </a>
     </div>
 </div>
