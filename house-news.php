@@ -9,13 +9,26 @@
     <div class="twocolumns">
         <br/>
         <p>
-            In der Mitte thront der Pizzaofen. <br/>
+            Der fleißige Maurer aus Sardinien gibt alles ;-)
         </p>
     </div>
     <div class="twocolumns">
-        <a href="images/news/Foto-5.jpg" class="highlightit" rel="lightbox-group4"
+        <a href="images/news/aussenkueche.jpg" class="highlightit" rel="lightbox-group-news"
+           title="Der fleißige Maurer aus Sardinien gibt alles ;-)">
+            <img src="images/news/aussenkueche.jpg"/>
+        </a>
+    </div>
+
+    <div class="twocolumns">
+        <br/>
+        <p>
+            In der Mitte thront der Pizzaofen.
+        </p>
+    </div>
+    <div class="twocolumns">
+        <a href="images/news/Foto-5.jpg" class="highlightit" rel="lightbox-group-news"
            title="Der Wasserfall hinter dem Haus">
-            <img src="images/news/Foto-5.jpg"/>
+            <img src="images/news/k-Foto-5.jpg"/>
         </a>
     </div>
 
@@ -26,7 +39,7 @@
         </p>
     </div>
     <div class="twocolumns">
-        <a href="images/news/Foto-4.jpg" class="highlightit" rel="lightbox-group4"
+        <a href="images/news/Foto-4.jpg" class="highlightit" rel="lightbox-group-news"
            title="Der Wasserfall hinter dem Haus">
             <img src="images/news/Foto-4.jpg"/>
         </a>
@@ -39,7 +52,7 @@
         </p>
     </div>
     <div class="twocolumns">
-        <a href="images/news/Foto-3.jpg" class="highlightit" rel="lightbox-group4"
+        <a href="images/news/Foto-3.jpg" class="highlightit" rel="lightbox-group-news"
            title="Der Wasserfall hinter dem Haus">
             <img src="images/news/Foto-3.jpg"/>
         </a>
@@ -62,15 +75,15 @@
         </p>
     </div>
     <div class="twocolumns">
-        <a href="images/news/Foto%203.jpg" class="highlightit" rel="lightbox-group4"
+        <a href="images/news/Foto%203.jpg" class="highlightit" rel="lightbox-group-news"
            title="Der Wasserfall hinter dem Haus">
             <img src="images/news/Foto%203.jpg"/>
         </a>
-        <a href="images/news/Foto-1.jpg" class="highlightit" rel="lightbox-group4"
+        <a href="images/news/Foto-1.jpg" class="highlightit" rel="lightbox-group-news"
            title="Der Wasserfall hinter dem Haus">
             <img src="images/news/Foto-1.jpg"/>
         </a>
-        <a href="images/news/Foto%204-2.jpg" class="highlightit" rel="lightbox-group4"
+        <a href="images/news/Foto%204-2.jpg" class="highlightit" rel="lightbox-group-news"
            title="Der Wasserfall hinter dem Haus">
             <img src="images/news/Foto%204-2.jpg"/>
         </a>
@@ -92,7 +105,7 @@
         </p>
     </div>
     <div class="twocolumns">
-        <a href="images/news/Foto%202-2.jpg" class="highlightit" rel="lightbox-group4"
+        <a href="images/news/Foto%202-2.jpg" class="highlightit" rel="lightbox-group-news"
            title="Der Wasserfall hinter dem Haus">
             <img src="images/news/Foto%202-2.jpg"/>
         </a>
@@ -104,7 +117,7 @@
         </p>
     </div>
     <div class="twocolumns">
-        <a href="images/news/Foto%205.jpg" class="highlightit" rel="lightbox-group4"
+        <a href="images/news/Foto%205.jpg" class="highlightit" rel="lightbox-group-news"
            title="Der Wasserfall hinter dem Haus">
             <img src="images/news/Foto%205.jpg"/>
         </a>
@@ -116,7 +129,7 @@
         </p>
     </div>
     <div class="twocolumns">
-        <a href="images/news/Foto-2%202.jpg" class="highlightit" rel="lightbox-group4"
+        <a href="images/news/Foto-2%202.jpg" class="highlightit" rel="lightbox-group-news"
            title="Der Wasserfall hinter dem Haus">
             <img src="images/news/Foto-2%202.jpg"/>
         </a>
@@ -137,7 +150,7 @@
         </p>
     </div>
     <div class="twocolumns">
-        <a href="images/news/Foto-6.jpg" class="highlightit" rel="lightbox-group4"
+        <a href="images/news/Foto-6.jpg" class="highlightit" rel="lightbox-group-news"
            title="Der Wasserfall hinter dem Haus">
             <img src="images/news/Foto-6.jpg"/>
         </a>
@@ -158,11 +171,11 @@
         </p>
     </div>
     <div class="twocolumns">
-        <a href="images/news/DSC_0544.jpg" class="highlightit" rel="lightbox-group4"
+        <a href="images/news/DSC_0544.jpg" class="highlightit" rel="lightbox-group-news"
            title="Der Wasserfall hinter dem Haus">
             <img src="images/news/DSC_0544.jpg"/>
         </a>
-        <a href="images/news/DSC_0545.jpg" class="highlightit" rel="lightbox-group4"
+        <a href="images/news/DSC_0545.jpg" class="highlightit" rel="lightbox-group-news"
            title="Der Wasserfall hinter dem Haus">
             <img src="images/news/DSC_0545.jpg"/>
         </a>
