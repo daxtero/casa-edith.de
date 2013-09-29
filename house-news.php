@@ -27,7 +27,7 @@
     </div>
     <div class="twocolumns">
         <a href="images/news/Foto-5.jpg" class="highlightit" rel="lightbox-group-news"
-           title="Der Wasserfall hinter dem Haus">
+           title="In der Mitte thront der Pizzaofen.">
             <img src="images/news/k-Foto-5.jpg"/>
         </a>
     </div>
@@ -40,7 +40,7 @@
     </div>
     <div class="twocolumns">
         <a href="images/news/Foto-4.jpg" class="highlightit" rel="lightbox-group-news"
-           title="Der Wasserfall hinter dem Haus">
+           title="Das Fundament der Außenküche steht.">
             <img src="images/news/Foto-4.jpg"/>
         </a>
     </div>
@@ -53,7 +53,7 @@
     </div>
     <div class="twocolumns">
         <a href="images/news/Foto-3.jpg" class="highlightit" rel="lightbox-group-news"
-           title="Der Wasserfall hinter dem Haus">
+           title="Das Projekt 'Außenküche' kann beginnen...">
             <img src="images/news/Foto-3.jpg"/>
         </a>
     </div>
@@ -76,15 +76,15 @@
     </div>
     <div class="twocolumns">
         <a href="images/news/Foto%203.jpg" class="highlightit" rel="lightbox-group-news"
-           title="Der Wasserfall hinter dem Haus">
+           title="Der Gehweg entsteht.">
             <img src="images/news/Foto%203.jpg"/>
         </a>
         <a href="images/news/Foto-1.jpg" class="highlightit" rel="lightbox-group-news"
-           title="Der Wasserfall hinter dem Haus">
+           title="Der Gehweg entsteht.">
             <img src="images/news/Foto-1.jpg"/>
         </a>
         <a href="images/news/Foto%204-2.jpg" class="highlightit" rel="lightbox-group-news"
-           title="Der Wasserfall hinter dem Haus">
+           title="Der Gehweg entsteht.">
             <img src="images/news/Foto%204-2.jpg"/>
         </a>
     </div>
@@ -106,7 +106,7 @@
     </div>
     <div class="twocolumns">
         <a href="images/news/Foto%202-2.jpg" class="highlightit" rel="lightbox-group-news"
-           title="Der Wasserfall hinter dem Haus">
+           title="Gut 56 Kilo Tomaten wollen passiert werden. Mein Schwager Berto hilft mir Gott sei Dank bei dieser langwierigen Aufgabe.">
             <img src="images/news/Foto%202-2.jpg"/>
         </a>
     </div>
@@ -118,7 +118,7 @@
     </div>
     <div class="twocolumns">
         <a href="images/news/Foto%205.jpg" class="highlightit" rel="lightbox-group-news"
-           title="Der Wasserfall hinter dem Haus">
+           title="Danach alles schön langsam für mehrere Stunden einkochen.">
             <img src="images/news/Foto%205.jpg"/>
         </a>
     </div>
@@ -130,7 +130,7 @@
     </div>
     <div class="twocolumns">
         <a href="images/news/Foto-2%202.jpg" class="highlightit" rel="lightbox-group-news"
-           title="Der Wasserfall hinter dem Haus">
+           title="Die Konserven haben wir uns gerecht aufgeteilt. Mein Anteil sollte eine Zeit lang reichen ;-)">
             <img src="images/news/Foto-2%202.jpg"/>
         </a>
     </div>
@@ -151,7 +151,7 @@
     </div>
     <div class="twocolumns">
         <a href="images/news/Foto-6.jpg" class="highlightit" rel="lightbox-group-news"
-           title="Der Wasserfall hinter dem Haus">
+           title="Das Plexiglasdach, die Regenrinne und die Sonnensegel wurden installiert.">
             <img src="images/news/Foto-6.jpg"/>
         </a>
     </div>
@@ -172,11 +172,11 @@
     </div>
     <div class="twocolumns">
         <a href="images/news/DSC_0544.jpg" class="highlightit" rel="lightbox-group-news"
-           title="Der Wasserfall hinter dem Haus">
+           title="Früh morgens sind die Arbeiter gekommen, um meine lang ersehnte Pergola aufzubauen.">
             <img src="images/news/DSC_0544.jpg"/>
         </a>
         <a href="images/news/DSC_0545.jpg" class="highlightit" rel="lightbox-group-news"
-           title="Der Wasserfall hinter dem Haus">
+           title="Früh morgens sind die Arbeiter gekommen, um meine lang ersehnte Pergola aufzubauen.">
             <img src="images/news/DSC_0545.jpg"/>
         </a>
     </div>

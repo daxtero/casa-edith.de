@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c416f5b-f152-48b6-9120-1a44727ca441" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/news/aussenkueche.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/news/k-aussenkueche-4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/house/DSC_0600.jpg" afterPath="$PROJECT_DIR$/images/house/DSC_0600.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/house/Edith.jpg" afterPath="$PROJECT_DIR$/images/house/Edith.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/house-food.php" afterPath="$PROJECT_DIR$/house-food.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/house-home.php" afterPath="$PROJECT_DIR$/house-home.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/house-main.php" afterPath="$PROJECT_DIR$/house-main.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/house-news.php" afterPath="$PROJECT_DIR$/house-news.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/house-rooms.php" afterPath="$PROJECT_DIR$/house-rooms.php" />
     </list>
     <ignored path="casa-edith.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -91,16 +85,16 @@
       <file leaf-file-name="house-rooms.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/house-rooms.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="123" selection-start="242" selection-end="242" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="750">
+            <state line="8" column="123" selection-start="242" selection-end="242" vertical-scroll-proportion="-0.625" vertical-offset="105" max-vertical-offset="750">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="house-news.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="house-news.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/house-news.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="3" selection-start="156" selection-end="156" vertical-scroll-proportion="0.26732674" vertical-offset="0" max-vertical-offset="2670">
+            <state line="178" column="101" selection-start="5349" selection-end="5349" vertical-scroll-proportion="-26.5" vertical-offset="2034" max-vertical-offset="2865">
               <folding />
             </state>
           </provider>
@@ -109,7 +103,7 @@
       <file leaf-file-name="restaurants-main.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/restaurants-main.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="6" selection-start="69" selection-end="69" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="120">
+            <state line="2" column="6" selection-start="69" selection-end="69" vertical-scroll-proportion="-1.25" vertical-offset="0" max-vertical-offset="120">
               <folding />
             </state>
           </provider>
@@ -136,7 +130,7 @@
       <file leaf-file-name="house-food.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/house-food.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="13" selection-start="510" selection-end="510" vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="615">
+            <state line="26" column="52" selection-start="1262" selection-end="1262" vertical-scroll-proportion="-16.25" vertical-offset="0" max-vertical-offset="615">
               <folding />
             </state>
           </provider>
@@ -151,11 +145,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="house-main.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="house-main.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/house-main.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="45" column="12" selection-start="2415" selection-end="2415" vertical-scroll-proportion="0.0" vertical-offset="675" max-vertical-offset="1230">
-              <folding />
+            <state line="62" column="96" selection-start="3359" selection-end="3359" vertical-scroll-proportion="0.7752809" vertical-offset="309" max-vertical-offset="1110">
+              <folding>
+                <element signature="n#style#0;n#div#3;n#div#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -188,12 +184,12 @@
         <option value="$PROJECT_DIR$/menu-sights.php" />
         <option value="$PROJECT_DIR$/restaurants-main.php" />
         <option value="$PROJECT_DIR$/house-rooms.php" />
-        <option value="$PROJECT_DIR$/house-main.php" />
-        <option value="$PROJECT_DIR$/house-food.php" />
         <option value="$PROJECT_DIR$/menu-house.php" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/casa-edit.css" />
         <option value="$PROJECT_DIR$/house-news.php" />
+        <option value="$PROJECT_DIR$/house-food.php" />
+        <option value="$PROJECT_DIR$/house-main.php" />
       </list>
     </option>
   </component>
@@ -262,6 +258,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="casa-edith" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="casa-edith" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="news" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -681,12 +695,17 @@
       <workItem from="1379178992151" duration="24862000" />
       <workItem from="1379273680423" duration="40000" />
       <workItem from="1379315812094" duration="67000" />
-      <workItem from="1380486444555" duration="1135000" />
+      <workItem from="1380486444555" duration="2540000" />
     </task>
+    <task id="LOCAL-00001" summary="News erweitert um Pizzaofen">
+      <created>1380488439490</created>
+      <updated>1380488439490</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26104000" />
+    <option name="totallyTimeSpent" value="27509000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -710,14 +729,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1680" height="973" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34701055" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34701055" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32865497" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32942554" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32986537" sideWeight="0.65298945" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32986537" sideWeight="0.65298945" order="3" side_tool="false" content_ui="tabs" />
@@ -727,17 +747,17 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32942554" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.249694" sideWeight="0.66119576" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20257038" sideWeight="0.65298945" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20257038" sideWeight="0.6705744" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -748,6 +768,8 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <MESSAGE value="News erweitert um Pizzaofen" />
+    <option name="LAST_COMMIT_MESSAGE" value="News erweitert um Pizzaofen" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -794,37 +816,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/restaurants-main.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="6" selection-start="69" selection-end="69" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="120">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/house-rooms.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="123" selection-start="242" selection-end="242" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="750">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/house-main.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="45" column="12" selection-start="2415" selection-end="2415" vertical-scroll-proportion="0.0" vertical-offset="675" max-vertical-offset="1230">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="76" column="5" selection-start="2282" selection-end="2464" vertical-scroll-proportion="0.0" vertical-offset="630" max-vertical-offset="1395">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/house-food.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="13" selection-start="510" selection-end="510" vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="615">
           <folding />
         </state>
       </provider>
@@ -848,10 +842,40 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/restaurants-main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="6" selection-start="69" selection-end="69" vertical-scroll-proportion="-1.25" vertical-offset="0" max-vertical-offset="120">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/house-rooms.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="123" selection-start="242" selection-end="242" vertical-scroll-proportion="-0.625" vertical-offset="105" max-vertical-offset="750">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/house-news.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="3" selection-start="156" selection-end="156" vertical-scroll-proportion="0.26732674" vertical-offset="0" max-vertical-offset="2670">
+        <state line="178" column="101" selection-start="5349" selection-end="5349" vertical-scroll-proportion="-26.5" vertical-offset="2034" max-vertical-offset="2865">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/house-food.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="52" selection-start="1262" selection-end="1262" vertical-scroll-proportion="-16.25" vertical-offset="0" max-vertical-offset="615">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/house-main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="62" column="96" selection-start="3359" selection-end="3359" vertical-scroll-proportion="0.7752809" vertical-offset="309" max-vertical-offset="1110">
+          <folding>
+            <element signature="n#style#0;n#div#3;n#div#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
