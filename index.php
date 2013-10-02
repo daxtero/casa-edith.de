@@ -1,5 +1,4 @@
 <?php
-//ToDo: CSS anpassen von twocolumns => Linke Highlighting ist hinter rechtem Bild
 
 include_once("config.php");
 

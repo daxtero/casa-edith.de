@@ -66,8 +66,9 @@ html {
 
 .twocolumns {
     text-align: left;
-    width: 50%;
+    width: 49.5%;
     float: left;
+    margin: 2px;
 }
 
 a {
