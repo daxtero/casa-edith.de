@@ -17,19 +17,19 @@
     </p>
 
     <div class="twocolumns">
-        <a href="images/house/D2DX5963.jpg" class="highlightit" rel="lightbox-group-food" title="">
+        <a href="images/house/D2DX5963.jpg" class="highlightit grouped_elements" rel="group_food" title="">
             <img src="images/house/k-D2DX5963.jpg"/>
         </a>
-        <a href="images/house/DSC_0600.jpg" class="highlightit" rel="lightbox-group-food" title="">
+        <a href="images/house/DSC_0600.jpg" class="highlightit grouped_elements" rel="group_food" title="">
             <img src="images/house/k-DSC_0600.jpg"/>
         </a>
-        <a href="images/house/D2DX5920.jpg" class="highlightit" rel="lightbox-group-food" title="">
+        <a href="images/house/D2DX5920.jpg" class="highlightit grouped_elements" rel="group_food" title="">
             <img src="images/house/k-D2DX5920.jpg"/>
         </a>
     </div>
 
     <div class="twocolumns">
-        <a href="images/house/DSC_0601.jpg" class="highlightit" rel="lightbox-group-food" title="">
+        <a href="images/house/DSC_0601.jpg" class="highlightit grouped_elements" rel="group_food" title="">
             <img src="images/house/k-DSC_0601.jpg"/>
         </a>
     </div>

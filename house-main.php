@@ -30,37 +30,37 @@
     <h4>Einige Impressionen:</h4>
 
     <div>
-        <a href="images/house/D2DX5926.jpg" class="highlightit" rel="lightbox-group-house-main" title="">
+        <a href="images/house/D2DX5926.jpg" class="highlightit grouped_elements" rel="group_house" title="Das Haus">
             <img src="images/house/k-D2DX5926.jpg"/>
         </a>
     </div>
 
     <div class="twocolumns">
-        <a href="images/house/IMG_0111.jpeg" class="highlightit" rel="lightbox-group-house-main" title="">
+        <a href="images/house/IMG_0111.jpeg" class="highlightit grouped_elements" rel="group_house" title="">
             <img src="images/house/k-IMG_0111.jpeg"/>
         </a>
-        <a href="images/house/IMG_0154.jpeg" class="highlightit" rel="lightbox-group-house-main" title="">
+        <a href="images/house/IMG_0154.jpeg" class="highlightit grouped_elements" rel="group_house" title="">
             <img src="images/house/k-IMG_0154.jpeg"/>
         </a>
-        <a href="images/house/IMG_0278.JPG" class="highlightit" rel="lightbox-group-house-main" title="">
+        <a href="images/house/IMG_0278.JPG" class="highlightit grouped_elements" rel="group_house" title="">
             <img src="images/house/k-IMG_0278.JPG"/>
         </a>
-        <a href="images/house/IMAG0632.jpg" class="highlightit" rel="lightbox-group-house-main" title="">
+        <a href="images/house/IMAG0632.jpg" class="highlightit grouped_elements" rel="group_house" title="">
             <img src="images/house/k-IMAG0632.jpg"/>
         </a>
     </div>
 
     <div class="twocolumns">
-        <a href="images/house/IMG_0153-1.JPG" class="highlightit" rel="lightbox-group-house-main" title="">
+        <a href="images/house/IMG_0153-1.JPG" class="highlightit grouped_elements" rel="group_house" title="">
             <img src="images/house/k-IMG_0153-1.JPG"/>
         </a>
-        <a href="images/house/DSC_0628.jpg" class="highlightit" rel="lightbox-group-house-main" title="">
+        <a href="images/house/DSC_0628.jpg" class="highlightit grouped_elements" rel="group_house" title="">
             <img src="images/house/k-DSC_0628.jpg"/>
         </a>
-        <a href="images/house/IMG_0401.jpeg" class="highlightit" rel="lightbox-group-house-main" title="">
+        <a href="images/house/IMG_0401.jpeg" class="highlightit grouped_elements" rel="group_house" title="">
             <img src="images/house/k-IMG_0401.jpeg"/>
         </a>
-        <a href="images/house/IMG_0283.JPG" class="highlightit" rel="lightbox-group-house-main" title="">
+        <a href="images/house/IMG_0283.JPG" class="highlightit grouped_elements" rel="group_house" title="">
             <img src="images/house/k-IMG_0283.JPG"/>
         </a>
     </div>

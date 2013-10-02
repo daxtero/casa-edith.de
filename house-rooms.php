@@ -10,14 +10,14 @@ header('Content-Type: text/html; charset=UTF-8');
     </p>
 
     <div class="twocolumns">
-        <a href="images/rooms/D2DX5907.jpg" class="highlightit" rel="lightbox-group2" title='Zimmer "Ernesta"'>
+        <a href="images/rooms/D2DX5907.jpg" class="highlightit grouped_elements" rel="group_rooms" title='Zimmer "Ernesta"'>
             <img src="images/rooms/k-D2DX5907.jpg"/>
         </a>
         <br/>Zimmer "Ernesta"
     </div>
 
     <div class="twocolumns">
-        <a href="images/rooms/D2DX5909.jpg" class="highlightit" rel="lightbox-group2" title='Zimmer "Roia"'>
+        <a href="images/rooms/D2DX5909.jpg" class="highlightit grouped_elements" rel="group_rooms" title='Zimmer "Roia"'>
             <img src="images/rooms/k-D2DX5909.jpg"/>
         </a>
         <br/>Zimmer "Roia"
@@ -32,12 +32,12 @@ header('Content-Type: text/html; charset=UTF-8');
     </p>
 
     <div class="twocolumns">
-        <a href="images/rooms/D2DX5889.jpg" class="highlightit" rel="lightbox-group2" title="Die Dusche">
+        <a href="images/rooms/D2DX5889.jpg" class="highlightit grouped_elements" rel="group_rooms" title="Die Dusche">
             <img style="width:84%;height=84%;" src="images/rooms/k-D2DX5889.jpg"/>
         </a>
     </div>
     <div>
-        <a href="images/rooms/D2DX5957.jpg" class="highlightit" rel="lightbox-group2" title="Das Badezimmer">
+        <a href="images/rooms/D2DX5957.jpg" class="highlightit grouped_elements" rel="group_rooms" title="Das Badezimmer">
             <img style="width:40%;height=40%;" src="images/rooms/k-D2DX5957.jpg"/>
         </a>
     </div>

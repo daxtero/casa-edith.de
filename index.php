@@ -25,7 +25,7 @@ function include_extra_meta($menu, $site)
 
 ?>
 
-<!DOCTYPE html>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html>
 <head>
     <title>Casa Edith</title>
@@ -34,11 +34,27 @@ function include_extra_meta($menu, $site)
 
     <link rel="shortcut icon" href="favicon.ico">
     <link href="http://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.0/css/bootstrap-combined.min.css" rel="stylesheet">
-    <link href="casa-edit.css" rel="stylesheet">
+    <link href="css/casa-edit.css" rel="stylesheet">
     <link href='http://fonts.googleapis.com/css?family=Arizonia' rel='stylesheet' type='text/css'>
     <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js"></script>
-    <script src="js/picbox.js" type="text/javascript"></script>
-    <link rel="stylesheet" href="css/picbox.css" type="text/css" media="screen"/>
+    <script type="text/javascript" src="fancybox/jquery.fancybox-1.3.4.pack.js"></script>
+    <script type="text/javascript">
+
+        $(document).ready(function() {
+
+            $("a.grouped_elements").fancybox({
+                'transitionIn'		: 'elastic',
+                'transitionOut'		: 'elastic',
+                'titlePosition' 	: 'over',
+                'titleFormat'		: function(title, currentArray, currentIndex, currentOpts) {
+                    return '<span id="fancybox-title-over">Bild: ' + (currentIndex + 1) + ' / ' + currentArray.length + (title.length ? ' &nbsp; &nbsp; ' + title : '') + '</span>';
+                }
+            });
+
+        });
+
+    </script>
+    <link rel="stylesheet" href="fancybox/jquery.fancybox-1.3.4.css" type="text/css" media="screen" />
 
 
     <?php echo include_extra_meta($menu, $site); ?>
