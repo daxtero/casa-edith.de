@@ -37,25 +37,12 @@ function include_extra_meta($menu, $site)
     <link href="css/casa-edit.css" rel="stylesheet">
     <link href='http://fonts.googleapis.com/css?family=Arizonia' rel='stylesheet' type='text/css'>
     <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js"></script>
-    <script type="text/javascript" src="fancybox/jquery.fancybox-1.3.4.pack.js"></script>
-    <script type="text/javascript">
 
-        $(document).ready(function() {
-
-            $("a.grouped_elements").fancybox({
-                'transitionIn'		: 'elastic',
-                'transitionOut'		: 'elastic',
-                'titlePosition' 	: 'over',
-                'titleFormat'		: function(title, currentArray, currentIndex, currentOpts) {
-                    return '<span id="fancybox-title-over">Bild: ' + (currentIndex + 1) + ' / ' + currentArray.length + (title.length ? ' &nbsp; &nbsp; ' + title : '') + '</span>';
-                }
-            });
-
-        });
-
-    </script>
+    <!-- fancybox begin -->
     <link rel="stylesheet" href="fancybox/jquery.fancybox-1.3.4.css" type="text/css" media="screen" />
-
+    <script type="text/javascript" src="fancybox/jquery.fancybox-1.3.4.pack.js"></script>
+    <script type="text/javascript" src="fancybox/jquery.mousewheel-3.0.4.pack.js"></script>
+    <script type="text/javascript" src="js/fancybox_init.js"></script>
 
     <?php echo include_extra_meta($menu, $site); ?>
 

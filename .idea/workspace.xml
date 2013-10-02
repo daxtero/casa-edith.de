@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c416f5b-f152-48b6-9120-1a44727ca441" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/closebutton.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/loading.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/navbtns.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/picbox.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extra/autoactivation.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extra/flickr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extra/picasaweb.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/picbox.js" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/casa-edit.css" afterPath="$PROJECT_DIR$/css/casa-edit.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/house-food.php" afterPath="$PROJECT_DIR$/house-food.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/house-main.php" afterPath="$PROJECT_DIR$/house-main.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/house-news.php" afterPath="$PROJECT_DIR$/house-news.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/house-rooms.php" afterPath="$PROJECT_DIR$/house-rooms.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/fancybox_init.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
     </list>
     <ignored path="casa-edith.iws" />
@@ -84,19 +72,30 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="36" column="20" selection-start="950" selection-end="950" vertical-scroll-proportion="-17.5" vertical-offset="120" max-vertical-offset="1575">
+            <state line="44" column="59" selection-start="1568" selection-end="1568" vertical-scroll-proportion="0.51265824" vertical-offset="255" max-vertical-offset="1380">
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fancybox_init.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/fancybox_init.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="0" selection-start="31" selection-end="31" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="house-news.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="house-news.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/house-news.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="153" column="55" selection-start="4575" selection-end="4575" vertical-scroll-proportion="2.8580325" vertical-offset="0" max-vertical-offset="2865">
+            <state line="153" column="55" selection-start="4575" selection-end="4575" vertical-scroll-proportion="-95.625" vertical-offset="0" max-vertical-offset="2865">
               <folding>
                 <element signature="n#style#0;n#div#8;n#div#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#11;n#div#0;n#!!top" expanded="true" />
@@ -168,7 +167,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/house-drive.php" />
         <option value="$PROJECT_DIR$/sights-bassano.php" />
         <option value="$PROJECT_DIR$/sights-treviso.php" />
         <option value="$PROJECT_DIR$/sights-adria.php" />
@@ -182,8 +180,9 @@
         <option value="$PROJECT_DIR$/house-food.php" />
         <option value="$PROJECT_DIR$/house-main.php" />
         <option value="$PROJECT_DIR$/house-rooms.php" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/house-news.php" />
+        <option value="$PROJECT_DIR$/js/fancybox_init.js" />
+        <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
   </component>
@@ -236,6 +235,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="casa-edith" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="casa-edith" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="casa-edith" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -675,7 +688,7 @@
       <workItem from="1379315812094" duration="67000" />
       <workItem from="1380486444555" duration="3334000" />
       <workItem from="1380695735424" duration="1750000" />
-      <workItem from="1380698311656" duration="2183000" />
+      <workItem from="1380698311656" duration="2406000" />
     </task>
     <task id="LOCAL-00001" summary="News erweitert um Pizzaofen">
       <created>1380488439490</created>
@@ -685,7 +698,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32236000" />
+    <option name="totallyTimeSpent" value="32459000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -833,22 +846,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="20" selection-start="950" selection-end="950" vertical-scroll-proportion="-17.5" vertical-offset="120" max-vertical-offset="1575">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/house-news.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="153" column="55" selection-start="4575" selection-end="4575" vertical-scroll-proportion="2.8580325" vertical-offset="0" max-vertical-offset="2865">
+        <state line="153" column="55" selection-start="4575" selection-end="4575" vertical-scroll-proportion="-95.625" vertical-offset="0" max-vertical-offset="2865">
           <folding>
             <element signature="n#style#0;n#div#8;n#div#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#11;n#div#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#18;n#div#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#21;n#div#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#24;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/fancybox_init.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="31" selection-end="31" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="59" selection-start="1568" selection-end="1568" vertical-scroll-proportion="0.51265824" vertical-offset="255" max-vertical-offset="1380">
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
