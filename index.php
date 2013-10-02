@@ -1,8 +1,5 @@
 <?php
-//ToDo: Schriftgröße anpassen von Absätzen => Twitter Bootstrap
-//ToDo: Bilddateigrößen anpassen (tw. zu groß fürs web)
 //ToDo: CSS anpassen von twocolumns => Linke Highlighting ist hinter rechtem Bild
-//ToDo: Kategorien der Bilder prüfen und anpassen!
 
 include_once("config.php");
 

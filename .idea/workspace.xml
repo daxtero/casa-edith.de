@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c416f5b-f152-48b6-9120-1a44727ca441" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.php" afterPath="$PROJECT_DIR$/config.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
     </list>
     <ignored path="casa-edith.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -71,10 +71,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="config.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="config.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="24" selection-start="31" selection-end="31" vertical-scroll-proportion="0.05940594" vertical-offset="0" max-vertical-offset="505">
+            <state line="2" column="24" selection-start="31" selection-end="31" vertical-scroll-proportion="-1.25" vertical-offset="0" max-vertical-offset="120">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="0" selection-start="88" selection-end="88" vertical-scroll-proportion="-1.25" vertical-offset="0" max-vertical-offset="1350">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="5" selection-start="5" selection-end="5" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="529">
               <folding />
             </state>
           </provider>
@@ -102,18 +120,18 @@
         <option value="$PROJECT_DIR$/sights-bassano.php" />
         <option value="$PROJECT_DIR$/sights-treviso.php" />
         <option value="$PROJECT_DIR$/sights-adria.php" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/house-prices.php" />
         <option value="$PROJECT_DIR$/menu-sights.php" />
         <option value="$PROJECT_DIR$/restaurants-main.php" />
         <option value="$PROJECT_DIR$/house-rooms.php" />
         <option value="$PROJECT_DIR$/menu-house.php" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/casa-edit.css" />
         <option value="$PROJECT_DIR$/house-news.php" />
         <option value="$PROJECT_DIR$/house-food.php" />
         <option value="$PROJECT_DIR$/house-main.php" />
         <option value="$PROJECT_DIR$/config.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -588,7 +606,7 @@
       <workItem from="1379273680423" duration="40000" />
       <workItem from="1379315812094" duration="67000" />
       <workItem from="1380486444555" duration="3334000" />
-      <workItem from="1380695735424" duration="97000" />
+      <workItem from="1380695735424" duration="589000" />
     </task>
     <task id="LOCAL-00001" summary="News erweitert um Pizzaofen">
       <created>1380488439490</created>
@@ -598,7 +616,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28400000" />
+    <option name="totallyTimeSpent" value="28892000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -697,11 +715,6 @@
         <state line="26" column="48" selection-start="941" selection-end="941" vertical-scroll-proportion="-16.25" vertical-offset="0" max-vertical-offset="735" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="20" selection-end="20" vertical-scroll-proportion="0.037406486" vertical-offset="0" max-vertical-offset="802" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/house-main.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="41" column="60" selection-start="2242" selection-end="2242" vertical-scroll-proportion="0.38202247" vertical-offset="309" max-vertical-offset="1110" />
@@ -715,11 +728,6 @@
     <entry file="file://$PROJECT_DIR$/house-food.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="26" column="52" selection-start="1262" selection-end="1262" vertical-scroll-proportion="0.4868914" vertical-offset="0" max-vertical-offset="801" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="76" column="5" selection-start="2282" selection-end="2464" vertical-scroll-proportion="0.67639595" vertical-offset="607" max-vertical-offset="1395" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/menu-sights.php">
@@ -749,7 +757,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="24" selection-start="31" selection-end="31" vertical-scroll-proportion="0.05940594" vertical-offset="0" max-vertical-offset="505">
+        <state line="2" column="24" selection-start="31" selection-end="31" vertical-scroll-proportion="-1.25" vertical-offset="0" max-vertical-offset="120">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="88" selection-end="88" vertical-scroll-proportion="-1.25" vertical-offset="0" max-vertical-offset="1350">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="5" selection-start="5" selection-end="5" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="529">
           <folding />
         </state>
       </provider>
