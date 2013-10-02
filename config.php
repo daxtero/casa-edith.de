@@ -1,3 +1,3 @@
 <?php
 
-$base = "//karim.daxtero.de/";
+$base = "//casa-edith.de";
