@@ -4,6 +4,27 @@
     <h2>Neuigkeiten</h2>
 
 
+    <h4>Oktober 2013</h4>
+
+    <div class="twocolumns">
+        <br/>
+        <p>
+            Der Kater guckt zwar (noch) etwas skeptisch, aber ich finde die Außenküche gar nicht mal so schlecht ;-)
+        </p>
+    </div>
+    <div class="twocolumns">
+        <a href="images/news/aussenkueche1.jpg" class="highlightit grouped_elements" rel="group_news"
+           title="Der fleißige Maurer aus Sardinien gibt alles ;-)">
+            <img src="images/news/k-aussenkueche1.jpg"/>
+        </a>
+    </div>
+
+    <div style="clear: left;"></div>
+    <br/>
+
+    <hr noshade size="5">
+    <br/>
+
     <h4>September 2013</h4>
 
     <div class="twocolumns">
