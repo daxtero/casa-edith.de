@@ -16,12 +16,11 @@
     <h3>Anfahrt</h3>
 
     <h4>Mit dem Flugzeug:</h4>
-    <ul>Flughäfen in der Nähe:
+    <ul>Flughafen in der Nähe:
         <li><a href="https://maps.google.de/maps?q=Marco+Polo+Airport,+Via+Galileo+Galilei,+Venedig,+Italien&hl=de&sll=53.144019,8.220735&sspn=0.164947,0.445976&oq=Venedig+Mar&hq=Marco+Polo+Airport,&hnear=Via+Galileo+Galilei,+Tessera,+Venezia,+Veneto,+Italien&t=m&z=16">Venedig, Marco Polo</a> (Fluggesellschaften: Lufthansa, Air Berlin, TUIfly)</li>
-        <li><a href="https://maps.google.de/maps?q=Flughafen+Treviso+(TSF),+Via+Noalese,+Treviso+Provincia+di+Treviso,+Italien&hl=de&sll=45.504712,12.335728&sspn=0.012046,0.027874&oq=Treviso+Air&hq=Flughafen+Treviso+(TSF),+Via+Noalese,+Treviso+Provincia+di+Treviso,+Italien&t=m&z=15">Treviso</a> (Fluggesellschaft: Ryanair)</li>
     </ul>
     <p>
-        Beide Flughäfen sind ca. eine Autostunde entfernt.
+        Der Flughafen ist ca. eine Autostunde weit entfernt.
     </p>
     <br />
 
