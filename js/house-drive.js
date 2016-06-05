@@ -3,7 +3,7 @@ var gmegMarker;
 var gmegInfoWindow;
 var gmegLatLng;
 function gmegInitializeMap() {
-    gmegLatLng = new google.maps.LatLng(46.1522, 12.13999);
+    gmegLatLng = new google.maps.LatLng(46.152545,12.140047);
     gmegMap = new google.maps.Map(document.getElementById('gmeg_map_canvas'), {
         zoom: 13,
         center: gmegLatLng,
